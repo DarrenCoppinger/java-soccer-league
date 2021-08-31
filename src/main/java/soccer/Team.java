@@ -11,6 +11,6 @@ package soccer;
  */
 public class Team {
     public String teamName;
-    public String[] playerArray;
+    public Player[] playerArray;
     
 }

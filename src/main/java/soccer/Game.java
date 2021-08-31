@@ -10,5 +10,7 @@ package soccer;
  * @author Darren
  */
 public class Game {
-    
+    public Team awayTeam;
+    public Team homeTeam;
+    public Goal[] goals;
 }
