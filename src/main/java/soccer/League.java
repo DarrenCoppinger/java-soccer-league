@@ -16,6 +16,8 @@ public class League {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Player player1 = new Player();
+        player1.playerName = "George Eliot";
     }
     
 }

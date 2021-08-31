@@ -10,5 +10,7 @@ package soccer;
  * @author Darren
  */
 public class Team {
+    public String teamName;
+    public String[] playerArray;
     
 }

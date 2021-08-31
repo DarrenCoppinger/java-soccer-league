@@ -10,5 +10,5 @@ package soccer;
  * @author Darren
  */
 public class Player {
-    
+    public String playerName;
 }
